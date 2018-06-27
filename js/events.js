@@ -1,4 +1,4 @@
-function $('p').on("click", function(){"Hey!"});
+$('p').on("click", function(){"Hey!"});
 $('img').on('load',function(){"tasty"}); 
 $(document).on('keydown',function(key){if(key.which == G){alert('g was pressed');
 }
