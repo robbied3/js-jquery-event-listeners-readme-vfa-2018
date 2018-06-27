@@ -1,4 +1,4 @@
-$('p').on("click", function(getIt){Hey!});
+$('p').on("click", function(getIt){"Hey!});
 $('img').on('load',function(frameIt){"tasty"})
 
 $(document).ready(function(){
