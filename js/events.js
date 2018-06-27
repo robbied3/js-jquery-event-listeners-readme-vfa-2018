@@ -1,4 +1,4 @@
-$('p').on("click", function (){"Hey!"});
+$('p').on("click", function(getIt){"Hey!"});
 
 
 $(document).ready(function(){
