@@ -1,5 +1,5 @@
-$('p').on("click", function(){"Hey!"});
-$('img').on('load',function(){"tasty"}); 
+$('p').on("click", function(document){"Hey!"});
+$('img').on('load',function(document){"tasty"}); 
 $(document).on('keydown',function(key){if(key.which == G){alert('g was pressed');
 }
 });
